@@ -1,0 +1,9 @@
+@extends('..//layouts.base')
+@section('title')
+@endsection
+@section('css')
+@endsection
+@section('content')
+@endsection
+@section('js')
+@endsection
